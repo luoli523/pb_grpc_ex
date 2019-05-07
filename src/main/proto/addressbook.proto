@@ -3,7 +3,7 @@ syntax = "proto2";
 package grpc;
 
 option java_package = "luoli523.grpc.proto";
-//option java_outer_classname = "AddressBookProtos";
+option java_outer_classname = "AddressBookProtos";
 
 message Person {
   required string name = 1;

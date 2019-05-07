@@ -1,0 +1,36 @@
+{
+  "people": [
+    {
+      "name": "zhangsan",
+      "id": 1,
+      "email": "zhangsan@163.com",
+      "phones": [
+        {
+          "number": "01234",
+          "type": "HOME"
+        },
+        {
+          "number": "56789",
+          "type": "WORK"
+        }
+      ]
+    },
+    {
+      "name": "lisi",
+      "id": "2",
+      "email": "",
+      "phones": []
+    },
+    {
+      "name":"wangwu",
+      "id": "3",
+      "email": "wangwu@sohu.com",
+      "phones": [
+        {
+          "number": "123",
+          "type": "MOBILE"
+        }
+      ]
+    }
+  ]
+}
